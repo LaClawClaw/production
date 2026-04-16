@@ -26,6 +26,10 @@ jacket. Dog tags stamped with model weights. Reactor-green fur collar.
   handoff through mass production
 - [`factory-questions.md`](./factory-questions.md) — open questions we're
   asking the factory, and their answers when received
+- [`cad/`](./cad/) — reference 3D assets (STL + GLB). **GitHub renders STL
+  files inline — click [`cad/glytch-nemo-edition.stl`](./cad/glytch-nemo-edition.stl)
+  to spin the model right in your browser.**
+- [`photos/`](./photos/) — reference photos of the current prototype
 
 ## Bill of materials — 9 component groups
 
