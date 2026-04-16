@@ -29,6 +29,10 @@ jacket. Dog tags stamped with model weights. Reactor-green fur collar.
 - [`cad/`](./cad/) — reference 3D assets (STL + GLB). **GitHub renders STL
   files inline — click [`cad/glytch-nemo-edition.stl`](./cad/glytch-nemo-edition.stl)
   to spin the model right in your browser.**
+- [`drawings/`](./drawings/) — 2D technical drawings (PDF). First
+  delivered: [`LCC-GLTCH-001-spec-drawing.pdf`](./drawings/LCC-GLTCH-001-spec-drawing.pdf)
+  — combined views with socket positions, wall thickness, parting line,
+  eye placement, and dimensional callouts.
 - [`photos/`](./photos/) — reference photos of the current prototype
 
 ## Bill of materials — 9 component groups
